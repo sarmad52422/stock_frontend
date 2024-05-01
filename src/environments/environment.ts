@@ -4,7 +4,7 @@ export const environment = {
     production: false,
     useHash: true,
     api: {
-        baseUrl: 'http://localhost:8080/api/v1',
+        baseUrl: 'https://stock-api-tagname.onrender.com',
         refreshTokenEnabled: true,
         refreshTokenType: 'auth-refresh'
     },
